@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @evili
 - 👀 I’m interested in Django webframework
 - 🌱 I’m currently learning Kubernetes
-- 💞️ I’m looking to collaborate on Helm charo for generic Django deployments
+- 💞️ I’m looking to collaborate on Helm chart for generic Django deployments
 - 📫 How to reach me on GitHub
 
 <!---
